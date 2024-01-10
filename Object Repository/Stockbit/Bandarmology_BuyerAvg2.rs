@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bandarmology_BuyerAvg2</name>
+   <tag></tag>
+   <elementGuidId>e1b7bae3-94a4-4229-b49a-dbea925c9a59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@id, 'rc-tabs-')]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[3]/td[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>448d431e-60e4-440f-8ed3-3767504cea48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>broker-buy</value>
+      <webElementGuid>3da2817f-0506-4450-8f10-dc15bed0903f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>129</value>
+      <webElementGuid>64a27619-4a78-4f1f-85a0-16ac6357533a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wgtbandar&quot;)/div[@class=&quot;widgetboxin widgetbandar&quot;]/div[@class=&quot;widget-content bandar-content&quot;]/div[1]/table[@class=&quot;brokersum-buy&quot;]/tbody[1]/tr[1]/td[@class=&quot;broker-buy&quot;]</value>
+      <webElementGuid>57bc3f5e-da4c-48c7-9232-5de80007b2a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wgtbandar']/div/div[3]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>d363a4a2-ae7d-40b2-88b3-bc767a3b2097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YP'])[1]/following::td[2]</value>
+      <webElementGuid>745ab42f-3b82-4774-86f6-5425f442815e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B.avg'])[1]/following::td[3]</value>
+      <webElementGuid>529d7215-c057-470f-8d51-13c8c36a1cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PD'])[1]/preceding::td[1]</value>
+      <webElementGuid>c4e2b4ca-1313-4cbe-bc5a-5e22da40910c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[1]/preceding::td[4]</value>
+      <webElementGuid>2c555283-c6fe-4d8f-b959-3ffce6c39516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>ff51c52e-4955-48eb-b2d7-6bea5ef771b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '129' or . = '129')]</value>
+      <webElementGuid>3e0bba42-eade-4f90-a12a-0c0a6105954e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

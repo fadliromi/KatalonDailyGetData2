@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bandarmology_AccDist</name>
+   <tag></tag>
+   <elementGuidId>25aac653-861c-4761-bcdd-fc4e809f5eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>table.bandar-table-2 > tbody > tr > td.accdist.red > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@id, '-panel-BROKER_SUMMARY')]/div/div[3]/div/div/div/div/div/div/table/tbody/tr/td[5]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64a8d0d0-15fa-4574-8f0d-3f7f03122b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dist</value>
+      <webElementGuid>b7a08cdb-d4bf-4e0a-b063-293bb7ac4664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wgtbandar&quot;)/div[@class=&quot;widgetboxin widgetbandar&quot;]/div[@class=&quot;widget-content bandar-content&quot;]/table[@class=&quot;bandar-table-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;accdist red&quot;]/span[1]</value>
+      <webElementGuid>437b1a5b-1548-4416-b8f7-af05ba3dc257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wgtbandar']/div/div[3]/table[2]/tbody/tr/td[5]/span</value>
+      <webElementGuid>9e39c312-e57b-4f60-8cd7-393ae4dddea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Broker'])[1]/following::span[1]</value>
+      <webElementGuid>84bacfad-1bc6-4e23-a0c4-3b7973df8efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acc/Dist'])[2]/following::span[1]</value>
+      <webElementGuid>d8412a0e-8ceb-4984-aa84-9afdac330f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Volume'])[1]/preceding::span[1]</value>
+      <webElementGuid>3b4021e3-dc80-4615-a362-33db7044ed98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Value'])[1]/preceding::span[2]</value>
+      <webElementGuid>1af6981c-4d0b-4d25-996b-60a1abc4d808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dist']/parent::*</value>
+      <webElementGuid>b772798d-9dda-4707-aada-cd2d5cf81805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td[5]/span</value>
+      <webElementGuid>2d02e1e6-fd34-447f-8bbb-7c355ece0fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dist' or . = 'Dist')]</value>
+      <webElementGuid>b9b30347-f7f6-47bc-96b6-f4be592a1bc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

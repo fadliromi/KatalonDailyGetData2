@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_ClosePrice</name>
+   <tag></tag>
+   <elementGuidId>aa1a2457-ac33-4246-97e4-c44dd4eafbfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.CHEM-LIVE-LASTPRICE-SPACE.info-lastprice.ordrbook-arrow-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-container']/div[4]/div[2]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3f2ec381-c317-40be-b71b-5e240c56cbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CHEM-LIVE-LASTPRICE-SPACE info-lastprice ordrbook-arrow-up</value>
+      <webElementGuid>1c981bce-cec0-418d-be15-4588dbbb3b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 193</value>
+      <webElementGuid>60c3fd23-280d-4576-8a71-7a1154e6c71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ordrbook-wrapper&quot;)/div[@class=&quot;ordrbook-item-head&quot;]/div[@class=&quot;lastprice-text&quot;]/span[@class=&quot;CHEM-LIVE-LASTPRICE-SPACE info-lastprice ordrbook-arrow-up&quot;]</value>
+      <webElementGuid>7a0b196e-52fd-4833-b925-3dd6e7fb1a7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ordrbook-wrapper']/div/div[2]/span[2]</value>
+      <webElementGuid>dd97a439-e0d0-4372-a0b1-4147a28abe1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAST'])[1]/following::span[1]</value>
+      <webElementGuid>6ab792f1-bf5a-426d-a0ba-e82f563aa509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHEM'])[4]/following::span[2]</value>
+      <webElementGuid>958b529b-8fb0-470d-bc27-978b4b9ac8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::span[4]</value>
+      <webElementGuid>f8d9b266-f3de-4854-a66c-70277dd915e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::span[4]</value>
+      <webElementGuid>f11bb320-b735-4555-b4bc-506dc3135253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/span[2]</value>
+      <webElementGuid>2a5936c9-9066-45a0-b301-44bc3d6cb406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 193' or . = ' 193')]</value>
+      <webElementGuid>60e9f152-7c48-4b81-8d82-d6c60285dd33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

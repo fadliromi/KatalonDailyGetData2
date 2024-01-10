@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Logout</name>
+   <tag></tag>
+   <elementGuidId>825d497d-1a94-4499-b983-ab4f1de96642</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item-active.ant-menu-item > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stockbit-header-web']/div/div/div[2]/div[4]/div/div/div/div[2]/div/div/div[2]/div[3]/a[4]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eabd8f80-25ee-487a-8368-afed8d958f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://stockbit.com/logout</value>
+      <webElementGuid>9fc3a593-9ecf-4be2-8f0f-23ce72d31cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>7e8c13c1-d8cb-4426-987b-0e8621a25402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[8]/div[1]/div[@class=&quot;ant-popover popoveruser ant-popover-placement-bottomRight&quot;]/div[@class=&quot;ant-popover-content&quot;]/div[@class=&quot;ant-popover-inner&quot;]/div[1]/div[@class=&quot;ant-popover-inner-content&quot;]/div[1]/div[@class=&quot;panel-box&quot;]/ul[@class=&quot;ant-menu ant-menu-vertical profile-user ant-menu-light ant-menu-root&quot;]/li[@class=&quot;ant-menu-item-group&quot;]/ul[@class=&quot;ant-menu-item-group-list&quot;]/li[@class=&quot;ant-menu-item-active ant-menu-item&quot;]/a[1]</value>
+      <webElementGuid>f6c1f77d-f303-49ac-a73d-43a31c27debc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Support'])[2]/following::a[1]</value>
+      <webElementGuid>ce4343dc-50c4-47fa-ad6e-458106eb2b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/following::a[2]</value>
+      <webElementGuid>d5fdd985-82e8-4240-9131-951eef4cbf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version: 2.6.36'])[1]/preceding::a[1]</value>
+      <webElementGuid>12a05788-88e6-4fc8-9547-3eded6469c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://stockbit.com/logout')]</value>
+      <webElementGuid>b0ee525b-a89f-48a8-9c08-f103733c88f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[4]/a</value>
+      <webElementGuid>984c4a95-ed07-45fe-99ea-9d626f9bd46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://stockbit.com/logout' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>dc7a3b46-f6e6-4805-b8d7-7f46107b8635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

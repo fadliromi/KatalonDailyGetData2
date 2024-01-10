@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Choose_Stock</name>
+   <tag></tag>
+   <elementGuidId>7b9ad4e6-d2c6-460d-a432-c7f8477d83e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='react-autowhatever-search_global-section-0-item-0']/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.option.stock > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bb490121-9427-40a6-ba68-ea38dbc6cfa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CHEM</value>
+      <webElementGuid>20190939-53d5-4365-b3a3-1d8d7070de42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-autowhatever-search_global-section-0-item-0&quot;)/div[@class=&quot;option stock&quot;]/i[1]</value>
+      <webElementGuid>fa6a022c-3428-48ec-b1c5-90bbbc28504f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='react-autowhatever-search_global-section-0-item-0']/div/i</value>
+      <webElementGuid>43f5f2e1-c65c-441f-aa7b-046882be211f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stocks'])[1]/following::i[1]</value>
+      <webElementGuid>8a070037-3ce2-4061-a27f-5f8caf959f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemstar Indonesia Tbk.'])[1]/preceding::i[1]</value>
+      <webElementGuid>0462154d-bc15-4e9c-bd37-d6eb1f51423a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHEM-W'])[1]/preceding::i[1]</value>
+      <webElementGuid>954d7d2b-15d1-4603-b61c-ed0fe487f6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CHEM']/parent::*</value>
+      <webElementGuid>f9d74fe3-7a83-4f9f-be27-ba73ab3cd35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/i</value>
+      <webElementGuid>bc81f73b-4b55-4a4b-b588-e94de24e1600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'CHEM' or . = 'CHEM')]</value>
+      <webElementGuid>2c94cadd-12a2-45a7-b546-d2c58ba291de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

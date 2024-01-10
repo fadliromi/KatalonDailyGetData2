@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bandarmology_SellerVol2</name>
+   <tag></tag>
+   <elementGuidId>de13e5fe-08b9-41ac-b2ab-f9671622a22f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@id, 'rc-tabs-')]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[3]/td[7]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.broker-sell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>79573b46-fa9e-4c14-8744-8b8250d8ac08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>broker-sell</value>
+      <webElementGuid>ec815f63-0302-4c95-aa71-fe41173e0c00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-2.9 B</value>
+      <webElementGuid>1ad5e815-793b-40c7-a7bb-c456fc9675bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wgtbandar&quot;)/div[@class=&quot;widgetboxin widgetbandar&quot;]/div[@class=&quot;widget-content bandar-content&quot;]/div[1]/table[@class=&quot;brokersum-sell&quot;]/tbody[1]/tr[1]/td[@class=&quot;broker-sell&quot;]</value>
+      <webElementGuid>7bb144f5-3a8a-45bf-abdd-12fcb0b47b5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wgtbandar']/div/div[3]/div/table[2]/tbody/tr/td[2]</value>
+      <webElementGuid>8c5a5617-7abd-4a0b-b965-6409e5decc7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AZ'])[1]/following::td[1]</value>
+      <webElementGuid>16a29a61-e523-41b1-8546-009b5e3d909b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S.avg'])[1]/following::td[2]</value>
+      <webElementGuid>ba8c2403-8550-42f5-825f-89e024f80db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MG'])[1]/preceding::td[2]</value>
+      <webElementGuid>e496f8b4-33c4-4f90-88e4-6525eb496bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EP'])[1]/preceding::td[5]</value>
+      <webElementGuid>1c024bef-0db7-40d2-892d-2a6050dcac69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-2.9 B']/parent::*</value>
+      <webElementGuid>1f4f2eaa-66d4-4288-8f23-92f736963e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table[2]/tbody/tr/td[2]</value>
+      <webElementGuid>33fb523d-a9c6-4c2f-b82c-5ab272fa7405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '-2.9 B' or . = '-2.9 B')]</value>
+      <webElementGuid>cc568fae-9912-4e10-aecc-6922f47c1f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

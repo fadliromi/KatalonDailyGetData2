@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_SuspendedLabel</name>
+   <tag></tag>
+   <elementGuidId>db925d91-b660-4b72-a67b-f96262122df0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.suspended-badges > em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-box']/div/div/section/div[3]/section/div[3]/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>8c7fe4e0-c0d7-49e4-af03-9d0299c0a9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suspended</value>
+      <webElementGuid>11946508-067d-44b4-984f-f66e569d0fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-box&quot;)/div[@class=&quot;company-header&quot;]/div[@class=&quot;company-top company-top-header&quot;]/section[@class=&quot;company-top-top&quot;]/div[@class=&quot;company-name company-icon&quot;]/section[1]/div[@class=&quot;suspended-badges&quot;]/em[1]</value>
+      <webElementGuid>0386c2a6-8618-4f1c-98f8-ff450508727b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-box']/div/div/section/div[3]/section/div[3]/em</value>
+      <webElementGuid>b1c2701c-1474-4fc3-aebc-f890f49da4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEBS'])[1]/following::em[2]</value>
+      <webElementGuid>071fd53b-fd22-4668-b3ca-53fa422aa053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::em[3]</value>
+      <webElementGuid>e2e35be8-645a-4f7d-b839-624432e3006c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berkah Beton Sadaya Tbk'])[1]/preceding::em[1]</value>
+      <webElementGuid>934c5a60-ce8b-4c49-a923-0eea3b257e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syariah'])[1]/preceding::em[1]</value>
+      <webElementGuid>54c616cb-0487-445c-a54e-e3b3bb7e0150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suspended']/parent::*</value>
+      <webElementGuid>995e63da-78ee-4592-9ebe-5f1d4742dd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/em</value>
+      <webElementGuid>70a103d9-3904-4101-9188-d5304b7dcdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'Suspended' or . = 'Suspended')]</value>
+      <webElementGuid>11647b3a-0c2b-483d-80f0-e43e01771183</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

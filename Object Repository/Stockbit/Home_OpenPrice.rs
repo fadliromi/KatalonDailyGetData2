@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_OpenPrice</name>
+   <tag></tag>
+   <elementGuidId>f30cfb56-5884-4ae8-8593-3ab8ba6f0b2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ordrbook-wrapper&quot;)/div[@class=&quot;ordrbook-item-info&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;CHEM-LIVE-OPEN info-open ordrbook-arrow-same&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.CHEM-LIVE-OPEN.info-open.ordrbook-arrow-same</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-container']/div[4]/div[2]/div/table/tbody/tr[1]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>34f44f3b-c2b6-4d23-a060-f5c7213d865a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CHEM-LIVE-OPEN info-open ordrbook-arrow-same</value>
+      <webElementGuid>64d0b72c-2a3d-46a6-976c-e8c4606eb2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>160</value>
+      <webElementGuid>e01ce74d-ae2c-4847-8959-cd9e4e551b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ordrbook-wrapper&quot;)/div[@class=&quot;ordrbook-item-info&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;CHEM-LIVE-OPEN info-open ordrbook-arrow-same&quot;]</value>
+      <webElementGuid>a64c858e-d938-4e69-9657-c820c1a7ce54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ordrbook-wrapper']/div[2]/table/tbody/tr/td[4]</value>
+      <webElementGuid>719f165f-5592-4a6c-ab5f-22cc4bccb693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/following::td[1]</value>
+      <webElementGuid>f84fe03e-aa78-44e6-9e0d-df5c9b4a854e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::td[3]</value>
+      <webElementGuid>2dc0c8f5-376e-4b33-99bd-70c044166b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lot'])[1]/preceding::td[1]</value>
+      <webElementGuid>79efcae1-2fce-4720-89ad-183a8d8ee9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chg'])[1]/preceding::td[3]</value>
+      <webElementGuid>540a23b6-ada5-4c4a-89e3-6576067e502e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>dca48d2f-0c33-473a-a6be-656d59da09a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '160' or . = '160')]</value>
+      <webElementGuid>8dc5013a-0dd8-406c-8d18-e2139cf4cc99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

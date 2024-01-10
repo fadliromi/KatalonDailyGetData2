@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_Screener</name>
+   <tag></tag>
+   <elementGuidId>c7052c57-9d4d-4b61-9613-237bc75551f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='screenerLink']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#screenerLink > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>37b170bb-e742-4628-abcf-7e3a56b3819f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Screener</value>
+      <webElementGuid>38ac8a73-9d55-4412-ba6b-2789aacf41ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;screenerLink&quot;)/i[1]</value>
+      <webElementGuid>d747f03f-6407-4073-834b-cac74e03142f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='screenerLink']/i</value>
+      <webElementGuid>6036d366-dd39-4c0e-ba0e-64b122110dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academy'])[1]/following::i[1]</value>
+      <webElementGuid>9660e7e3-9f1e-4351-a88a-c96eb2a7b88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orderbook'])[2]/following::i[2]</value>
+      <webElementGuid>e03955f2-d245-4c99-9a2e-7f57b94e6823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valuation'])[1]/preceding::i[1]</value>
+      <webElementGuid>0943954d-5533-47fe-a9b1-ee54fad61563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financials'])[1]/preceding::i[2]</value>
+      <webElementGuid>8655c5f5-441f-408d-a9ea-14f44ec128d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Screener']/parent::*</value>
+      <webElementGuid>66d6f88f-e950-47b7-a412-5982ef05fa19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/a/i</value>
+      <webElementGuid>79161eee-873f-4c8a-9b08-15a7fe88b977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'Screener' or . = 'Screener')]</value>
+      <webElementGuid>b8824331-ef81-40c3-8be9-157df744215a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

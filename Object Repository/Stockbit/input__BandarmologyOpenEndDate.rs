@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__BandarmologyOpenEndDate</name>
+   <tag></tag>
+   <elementGuidId>99f76a52-1e25-493f-bf82-684590fa75fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@id, 'rc-tabs-')]/div/div/div[2]/div/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>459467e7-c5ce-4b56-a498-a67911958286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>16/12/2022</value>
+      <webElementGuid>eeb4e908-7ff0-4f97-b4f7-c3b1a17bee8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>select a date</value>
+      <webElementGuid>84362702-28b8-4c3f-86f0-32ba99febefc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-calendar-picker-input ant-input</value>
+      <webElementGuid>2764375f-2746-48d9-8a2a-254de5e6d3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wgtbandar&quot;)/div[@class=&quot;widgetboxin widgetbandar&quot;]/div[@class=&quot;bandar-head&quot;]/form[1]/span[@class=&quot;fieldsec&quot;]/span[@class=&quot;ant-calendar-picker&quot;]/div[1]/input[@class=&quot;ant-calendar-picker-input ant-input&quot;]</value>
+      <webElementGuid>76b0e754-8400-41f6-86f1-f4fe18d783ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='16/12/2022'])[2]</value>
+      <webElementGuid>72748b9e-80e0-4872-a493-6f69c91c059c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wgtbandar']/div/div[2]/form/span/span[2]/div/input</value>
+      <webElementGuid>dce9fb1f-c284-413c-bcc5-bc17d0c6e203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/input</value>
+      <webElementGuid>3efa3f05-f1c1-47b8-ae05-20e3ced2d8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'select a date']</value>
+      <webElementGuid>82775025-9d87-4a0c-a189-f5ac68b1dc21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

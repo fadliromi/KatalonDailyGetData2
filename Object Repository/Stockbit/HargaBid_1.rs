@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HargaBid_1</name>
+   <tag></tag>
+   <elementGuidId>43dc3ce4-a601-4a34-9d21-badcc72b4545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ordrbook-wrapper']/div[3]/table/tbody/tr[1]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>20c36ef7-533f-46cb-bedd-e81c320a807e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ordrbook-arrow-up</value>
+      <webElementGuid>f2e580e5-4079-4ed6-9600-46f2ee96a863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>183</value>
+      <webElementGuid>358eb45e-3287-47a4-bd91-52b9068f570d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ordrbook-wrapper&quot;)/div[@class=&quot;CHEM-LIVE-ITEMLIST ordrbook-item-list&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;ordrbook-arrow-up&quot;]</value>
+      <webElementGuid>ea17df57-0e79-4f35-8443-d512ea509b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ordrbook-wrapper']/div[3]/table/tbody/tr/td[3]</value>
+      <webElementGuid>b8b65442-ab30-43ec-8372-5cdc7a6a5627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lot'])[3]/following::td[3]</value>
+      <webElementGuid>dcdf2510-e9d7-4ad5-9e27-449965d2dcc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/following::td[3]</value>
+      <webElementGuid>77f57b9c-d3e3-4a6b-8836-cdbcaee65abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL'])[1]/preceding::td[60]</value>
+      <webElementGuid>041317f5-52af-4b65-8343-f248aaea3342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Running Trade'])[1]/preceding::td[63]</value>
+      <webElementGuid>8db8ae80-abca-4423-b1d1-81eac564ab5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td[3]</value>
+      <webElementGuid>414f841e-fd69-483c-8605-9c7eef2c56f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '183' or . = '183')]</value>
+      <webElementGuid>e74a5b75-46ad-444c-93cd-91f02bf57ea6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

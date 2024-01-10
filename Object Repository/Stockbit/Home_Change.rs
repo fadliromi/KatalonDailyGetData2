@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_Change</name>
+   <tag></tag>
+   <elementGuidId>3026328e-0b27-4c92-9367-5f25f6650037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.AYLS-LIVE-PERCENTAGE_CHANGE.info-percentage_change.ordrbook-arrow-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-container']/div[4]/div[2]/div/table/tbody/tr[3]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4ed7e5d4-6b7b-4508-998f-65b283df8423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AYLS-LIVE-PERCENTAGE_CHANGE info-percentage_change ordrbook-arrow-down</value>
+      <webElementGuid>eb973f80-2f92-4a72-87fa-fea60dea50ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-5.49%</value>
+      <webElementGuid>4f19a34c-2fc8-4830-9e8e-edccd56bd6b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ordrbook-wrapper&quot;)/div[@class=&quot;ordrbook-item-info&quot;]/table[1]/tbody[1]/tr[3]/td[@class=&quot;AYLS-LIVE-PERCENTAGE_CHANGE info-percentage_change ordrbook-arrow-down&quot;]</value>
+      <webElementGuid>1c263437-9a8a-4a9b-8e0f-71e6163920d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ordrbook-wrapper']/div[2]/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>88eade31-819c-4c52-af6d-9e69de8ec0fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::td[1]</value>
+      <webElementGuid>f0093f05-7c30-43ce-8ee2-b6819e309acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Val'])[1]/following::td[3]</value>
+      <webElementGuid>6098ec85-fb35-45e5-a924-8cb815b5320a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Low'])[1]/preceding::td[1]</value>
+      <webElementGuid>247c3b93-6734-4103-8aae-575d72e4f3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avg'])[1]/preceding::td[3]</value>
+      <webElementGuid>b6ad5950-04cc-4d60-bec4-57c94cab160d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-5.49%']/parent::*</value>
+      <webElementGuid>70cd0e65-e1d1-47bf-9555-73428e6fd26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]</value>
+      <webElementGuid>4e6097df-14b7-4ee5-b82e-3eb253d1966c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '-5.49%' or . = '-5.49%')]</value>
+      <webElementGuid>9dc55ab8-863f-4d6b-bf98-21ba6b53cdc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

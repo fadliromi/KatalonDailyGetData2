@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ScreenerTotalRow</name>
+   <tag></tag>
+   <elementGuidId>2a561d53-0c21-440d-9b6c-1654154577c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-container']/div[2]/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styled__ResultPaginationInfo-sc-1986q66-1.dkgrmQ</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-container&quot;)/div[@class=&quot;styled__NotProWrapper-sc-1hlcej-3 iWuteF&quot;]/div[@class=&quot;styled__SContainerScreener-sc-1lf7ibl-3 ktFQMa&quot;]/div[@class=&quot;styled__SContainerScreenerPagination-sc-1lf7ibl-1 iURNUm&quot;]/div[@class=&quot;styled__ContainerResult-sc-1986q66-0 efFzlj&quot;]/div[@class=&quot;styled__ResultPaginationInfo-sc-1986q66-1 dkgrmQ&quot;][count(. | //*[(starts-with(text(), 'Results') or starts-with(., 'Results'))]) = count(//*[(starts-with(text(), 'Results') or starts-with(., 'Results'))])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac35f2a5-4a6f-4b1d-993f-f28d16bf9b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled__ResultPaginationInfo-sc-1986q66-1 dkgrmQ</value>
+      <webElementGuid>81241d51-ec3e-4d28-b19e-19952d696f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>starts with</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Results</value>
+      <webElementGuid>df5e5b1e-b2fa-47a2-a034-e26e9a216bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;styled__NotProWrapper-sc-1hlcej-3 iWuteF&quot;]/div[@class=&quot;styled__SContainerScreener-sc-1lf7ibl-3 ktFQMa&quot;]/div[@class=&quot;styled__SContainerScreenerPagination-sc-1lf7ibl-1 iURNUm&quot;]/div[@class=&quot;styled__ContainerResult-sc-1986q66-0 efFzlj&quot;]/div[@class=&quot;styled__ResultPaginationInfo-sc-1986q66-1 dkgrmQ&quot;]</value>
+      <webElementGuid>e3a05466-2297-4820-b170-88cca04169f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-container']/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>17d6a8c0-d2f1-4948-b5ec-5638a8fdd411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Screener'])[1]/following::div[3]</value>
+      <webElementGuid>ff743162-53df-41e0-b818-435188f8427f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vol + Accum + MA5'])[1]/following::div[6]</value>
+      <webElementGuid>807198a3-2042-42d2-9e60-8e16295f9ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Symbol'])[1]/preceding::div[3]</value>
+      <webElementGuid>e594c40b-cab9-490f-b5cc-d65431c12637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOSS'])[1]/preceding::div[21]</value>
+      <webElementGuid>f868b5c2-dff8-41d1-afb0-6b0b4b77fe1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Results']/parent::*</value>
+      <webElementGuid>c72ce451-ea47-4ed8-89c3-977acd4fe510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>cb8b1a95-7b89-4ee7-b537-1eeaf744f213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Results 1 - 14 of 14 Equities' or . = 'Results 1 - 14 of 14 Equities')]</value>
+      <webElementGuid>7aa9a010-21fd-48da-b257-d44cc8aa9cea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

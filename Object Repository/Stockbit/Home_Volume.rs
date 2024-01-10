@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_Volume</name>
+   <tag></tag>
+   <elementGuidId>48a9df60-dfdf-43f7-a771-eb7edb60dfb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.AYLS-LIVE-VOLUME.info-volume.ordrbook-arrow-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-container']/div[4]/div[2]/div/table/tbody/tr[1]/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>367bc0f0-557b-496f-8c7f-85149419e8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AYLS-LIVE-VOLUME info-volume ordrbook-arrow-down</value>
+      <webElementGuid>ed7579e4-97ca-4e63-8fb1-06cec26c67c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>122 K</value>
+      <webElementGuid>ded0b61b-f3e6-4138-9be6-282dde831c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ordrbook-wrapper&quot;)/div[@class=&quot;ordrbook-item-info&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;AYLS-LIVE-VOLUME info-volume ordrbook-arrow-down&quot;]</value>
+      <webElementGuid>51f19e90-13a2-4ab5-9b68-4c3c687b4b98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ordrbook-wrapper']/div[2]/table/tbody/tr/td[6]</value>
+      <webElementGuid>17bfbe73-723b-4123-9197-8fbbd3c9dfa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lot'])[1]/following::td[1]</value>
+      <webElementGuid>134277b5-0037-427e-8939-7f8d60e0498a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/following::td[3]</value>
+      <webElementGuid>11532d31-a984-4336-91a5-ff995104b80a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chg'])[1]/preceding::td[1]</value>
+      <webElementGuid>753b9739-b474-4761-b640-4b71fe551006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High'])[1]/preceding::td[3]</value>
+      <webElementGuid>190caba8-faea-4b07-80c1-0863d59da0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='122 K']/parent::*</value>
+      <webElementGuid>219c1abc-adf3-42d9-803f-198edd63734e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]</value>
+      <webElementGuid>9fceb1c1-05e8-465e-b29a-dda389e657f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '122 K' or . = '122 K')]</value>
+      <webElementGuid>cccc83f1-5d08-4a7b-b7b1-d0e9513b62f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

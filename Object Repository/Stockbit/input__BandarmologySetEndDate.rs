@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__BandarmologySetEndDate</name>
+   <tag></tag>
+   <elementGuidId>f6de0dd4-14b6-48f4-85a4-f0520b6b16e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d9ab3d4a-54a2-420a-b57e-afa9a0cd56af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-calendar-input </value>
+      <webElementGuid>5adf7f61-0f81-4172-95bb-dac9bee4bd0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>05/12/2022</value>
+      <webElementGuid>f8142144-027d-4a7a-82e7-a86acbe9d068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>select a date</value>
+      <webElementGuid>f7999a7e-788f-44de-9269-d1583d9c8cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[9]/div[1]/div[@class=&quot;ant-calendar-picker-container ant-calendar-picker-container-placement-bottomRight&quot;]/div[@class=&quot;ant-calendar&quot;]/div[@class=&quot;ant-calendar-panel&quot;]/div[@class=&quot;ant-calendar-input-wrap&quot;]/div[@class=&quot;ant-calendar-date-input-wrap&quot;]/input[@class=&quot;ant-calendar-input&quot;]</value>
+      <webElementGuid>cdb5b3f3-54fc-4d53-a99d-40c4d34caa3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='05/12/2022'])[2]</value>
+      <webElementGuid>79e70fba-beb2-4c63-92ac-aa7b0eac289d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/input</value>
+      <webElementGuid>ead1a930-03d9-48ea-b646-092e7b883734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'select a date']</value>
+      <webElementGuid>02e532cf-d29c-4e9d-b45a-ffb6882ebf19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
