@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "DB41D76588355FB1DEE9C8204CED6092",
+  "keywordClasses": [
+    {
+      "name": "alat.Tool_1",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.CekChangePrice",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

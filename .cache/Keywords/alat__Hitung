@@ -1,0 +1,38 @@
+{
+  "keywordFileContentHash": "88099E2B7E03A7171DBE6CC19A5208BC",
+  "keywordClasses": [
+    {
+      "name": "alat.Hitung",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.Split",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.HitungVolMA",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.CharUtilitas",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.AccessDatabase",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.AccessDatabase2",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.Scalping",
+      "keywordMethods": []
+    },
+    {
+      "name": "alat.CheckAkumSama",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
