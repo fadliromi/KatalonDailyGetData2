@@ -33,7 +33,7 @@ import java.sql.Statement;
 // for database
 
 
-
+ 
 //Steps:
 //1. Edit GetPrice.xlsx, semua isi kolom "Daily Done" dikosongin dan jumlah baris harus benar
 //2. Set date on code, harus dalam 1 hari aja, karna hanya mengambil data harga hari ini saja
