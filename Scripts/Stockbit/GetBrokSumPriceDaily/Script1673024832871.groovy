@@ -506,7 +506,7 @@ while (d.isBefore(endDate) || d.equals(endDate)) {
 				//System.out.println("strChange = " + strChange)
 				
 								 
-				
+				/* FR: ini dipake
 				strFreq = WebUI.getText(findTestObject('Stockbit/Home_Freq'))				
 				if (strFreq.contains(",")) {
 					strFreq = strFreq.replace(",", "")
@@ -524,7 +524,7 @@ while (d.isBefore(endDate) || d.equals(endDate)) {
 					System.out.println("Double strFreqAnal: " + strFreqAnal)
 					
 				}
-				
+				*/
 				
 				
 				
