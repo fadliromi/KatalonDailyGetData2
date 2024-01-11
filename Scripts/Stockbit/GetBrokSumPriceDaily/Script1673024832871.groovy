@@ -51,10 +51,12 @@ String strTemp
 Double dblFreqAnal
 
 LocalDate ldt = LocalDate.now()
-String strNama 
-String strStartDate2 = ldt.toString() // FR: disesuaikan
+String strNama
+String strStartDate2 = "2024-01-10" // FR: disesuaikan
+//String strStartDate2 = ldt.toString() // FR: disesuaikan
 
-String strEndDate2 = ldt.toString() // FR: disesuaikan
+String strEndDate2 = "2024-01-10" // FR: disesuaikan
+//String strEndDate2 = ldt.toString() // FR: disesuaikan
 String[] partSplit
 String strHari, strBulan, strTahun
 
