@@ -1,0 +1,80 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1,Chrome 120.0.0.0,,,2024-01-22 18:50:32,2024-01-22 18:52:09,1m - 36.873s,PASSED
+,,,,,,,
+Test Cases/Stockbit/GetBrokSumPriceDaily,Chrome 120.0.0.0,,,2024-01-22 18:50:33,2024-01-22 18:52:09,1m - 36.444s,PASSED
+strTop1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.017s,PASSED
+strTop2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strTop3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strAllBrokAvg = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strAccDist = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.008s,PASSED
+strNetVal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+strNetVol = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strTanggal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strBuyer1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strBuyerVol1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strBuyerAvg1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strSeller1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strSellerVol1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strSellerAvg1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strBuyer2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.003s,PASSED
+strBuyerVol2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+strBuyerAvg2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+strSeller2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+strSellerVol2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+strSellerAvg2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strBuyer3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strBuyerVol3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strBuyerAvg3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strSeller3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strSellerVol3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strSellerAvg3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strOpenPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strLowPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strHighPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strClosePrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+strVol = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strChange = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strFreq = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strFreqAnal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+intAvgRP = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strTemp = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+dblFreqAnal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+ldt = LocalDate.now(),Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.025s,PASSED
+strNama = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strStartDate2 = ldt.toString(),Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strEndDate2 = ldt.toString(),Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+partSplit = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strHari = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+strBulan = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.002s,PASSED
+strTahun = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.001s,PASSED
+builder = new java.lang.StringBuilder(),Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.022s,PASSED
+startDate = LocalDate.parse(strStartDate2),Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.012s,PASSED
+endDate = LocalDate.parse(strEndDate2),Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.000s,PASSED
+d = startDate,Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:34,0.005s,PASSED
+"openBrowser(""https://stockbit.com/login"")",Chrome 120.0.0.0,,,2024-01-22 18:50:34,2024-01-22 18:50:39,4.825s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2024-01-22 18:50:39,2024-01-22 18:50:39,0.165s,PASSED
+"setText(findTestObject(""Stockbit/input_UserID""), ""fadli_romi@yahoo.com"")",Chrome 120.0.0.0,,,2024-01-22 18:50:39,2024-01-22 18:50:40,0.847s,PASSED
+"setEncryptedText(findTestObject(""Stockbit/input_Password""), ""qzE6rR3iJu4="")",Chrome 120.0.0.0,,,2024-01-22 18:50:40,2024-01-22 18:50:41,0.684s,PASSED
+"click(findTestObject(""Stockbit/button_Login""))",Chrome 120.0.0.0,,,2024-01-22 18:50:41,2024-01-22 18:50:41,0.467s,PASSED
+delay(3),Chrome 120.0.0.0,,,2024-01-22 18:50:41,2024-01-22 18:50:44,3.049s,PASSED
+"navigateToUrl(""https://stockbit.com/screener"")",Chrome 120.0.0.0,,,2024-01-22 18:50:44,2024-01-22 18:50:48,3.387s,PASSED
+connection = null,Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.001s,PASSED
+statement = null,Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.001s,PASSED
+resultSet = null,Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.000s,PASSED
+"Class.forName(""net.ucanaccess.jdbc.UcanaccessDriver"")",Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.281s,PASSED
+"msAccDB = ""C:\Fadli\Database1.accdb""",Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.002s,PASSED
+"dbURL = ""jdbc:ucanaccess://"" + msAccDB",Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.001s,PASSED
+strSQL = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:50:48,0.002s,PASSED
+connection = DriverManager.getConnection(dbURL),Chrome 120.0.0.0,,,2024-01-22 18:50:48,2024-01-22 18:51:43,55.252s,PASSED
+statement = connection.createStatement(),Chrome 120.0.0.0,,,2024-01-22 18:51:43,2024-01-22 18:51:43,0.014s,PASSED
+try,Chrome 120.0.0.0,,,2024-01-22 18:51:43,2024-01-22 18:51:43,0.002s,PASSED
+"excelFilePath = ""C:\Fadli\GetPrice.xlsx""",Chrome 120.0.0.0,,,2024-01-22 18:51:43,2024-01-22 18:51:43,0.001s,PASSED
+"sheetName = ""Sheet1""",Chrome 120.0.0.0,,,2024-01-22 18:51:43,2024-01-22 18:51:43,0.001s,PASSED
+workbook01 = getWorkbook(excelFilePath),Chrome 120.0.0.0,,,2024-01-22 18:51:43,2024-01-22 18:51:44,0.616s,PASSED
+"sheet01 = getExcelSheet(workbook01, sheetName)",Chrome 120.0.0.0,,,2024-01-22 18:51:44,2024-01-22 18:51:44,0.002s,PASSED
+"numTot = numTot = getCellValueByIndex(sheet01, 0, 0)",Chrome 120.0.0.0,,,2024-01-22 18:51:44,2024-01-22 18:51:44,0.014s,PASSED
+while (d.isBefore(endDate) || d.equals(endDate)),Chrome 120.0.0.0,,,2024-01-22 18:51:44,2024-01-22 18:52:07,23.545s,PASSED
+if (null != connection),Chrome 120.0.0.0,,,2024-01-22 18:52:07,2024-01-22 18:52:07,0.017s,PASSED
+"click(findTestObject(""Stockbit/img__Profile""))",Chrome 120.0.0.0,,,2024-01-22 18:52:07,2024-01-22 18:52:08,0.455s,PASSED
+"click(findTestObject(""Stockbit/button_Logout""))",Chrome 120.0.0.0,,,2024-01-22 18:52:08,2024-01-22 18:52:08,0.527s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-22 18:52:08,2024-01-22 18:52:09,0.811s,PASSED

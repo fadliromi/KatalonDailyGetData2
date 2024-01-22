@@ -1,0 +1,1808 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. strTop1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+2
+00:00:00,000 --> 00:00:00,000
+5. strTop2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+3
+00:00:00,000 --> 00:00:00,000
+9. strTop3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+4
+00:00:00,000 --> 00:00:00,000
+13. strAllBrokAvg = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+5
+00:00:00,000 --> 00:00:00,000
+17. strAccDist = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+6
+00:00:00,000 --> 00:00:00,000
+21. strNetVal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+7
+00:00:00,000 --> 00:00:00,000
+25. strNetVol = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+8
+00:00:00,000 --> 00:00:00,000
+29. strTanggal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+9
+00:00:00,000 --> 00:00:00,000
+33. strBuyer1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+10
+00:00:00,000 --> 00:00:00,000
+37. strBuyerVol1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+11
+00:00:00,000 --> 00:00:00,000
+41. strBuyerAvg1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+12
+00:00:00,000 --> 00:00:00,000
+45. strSeller1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+13
+00:00:00,000 --> 00:00:00,000
+49. strSellerVol1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+14
+00:00:00,000 --> 00:00:00,000
+53. strSellerAvg1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+15
+00:00:00,000 --> 00:00:00,000
+57. strBuyer2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+16
+00:00:00,000 --> 00:00:00,000
+61. strBuyerVol2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+17
+00:00:00,000 --> 00:00:00,000
+65. strBuyerAvg2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+18
+00:00:00,000 --> 00:00:00,000
+69. strSeller2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+19
+00:00:00,000 --> 00:00:00,000
+73. strSellerVol2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+20
+00:00:00,000 --> 00:00:00,000
+77. strSellerAvg2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+21
+00:00:00,000 --> 00:00:00,000
+81. strBuyer3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+22
+00:00:00,000 --> 00:00:00,000
+85. strBuyerVol3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+23
+00:00:00,000 --> 00:00:00,000
+89. strBuyerAvg3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+24
+00:00:00,000 --> 00:00:00,000
+93. strSeller3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+25
+00:00:00,000 --> 00:00:00,000
+97. strSellerVol3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+26
+00:00:00,000 --> 00:00:00,000
+101. strSellerAvg3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+27
+00:00:00,000 --> 00:00:00,000
+105. strOpenPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+28
+00:00:00,000 --> 00:00:00,000
+109. strLowPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+29
+00:00:00,000 --> 00:00:00,000
+113. strHighPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+30
+00:00:00,000 --> 00:00:00,000
+117. strClosePrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+31
+00:00:00,000 --> 00:00:00,000
+121. strVol = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+32
+00:00:00,000 --> 00:00:00,000
+125. strChange = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+33
+00:00:00,000 --> 00:00:00,000
+129. strFreq = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+34
+00:00:00,000 --> 00:00:00,000
+133. strFreqAnal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+35
+00:00:00,000 --> 00:00:00,000
+137. intAvgRP = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+36
+00:00:00,000 --> 00:00:00,000
+141. strTemp = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+37
+00:00:00,000 --> 00:00:00,000
+145. dblFreqAnal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+38
+00:00:00,000 --> 00:00:00,000
+149. ldt = LocalDate.now()
+
+39
+00:00:00,000 --> 00:00:00,000
+153. strNama = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+40
+00:00:00,000 --> 00:00:00,000
+157. strStartDate2 = ldt.toString()
+
+41
+00:00:00,000 --> 00:00:00,000
+161. strEndDate2 = ldt.toString()
+
+42
+00:00:00,000 --> 00:00:00,000
+165. partSplit = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+43
+00:00:00,000 --> 00:00:00,000
+169. strHari = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+44
+00:00:00,000 --> 00:00:00,000
+173. strBulan = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+45
+00:00:00,000 --> 00:00:00,000
+177. strTahun = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+46
+00:00:00,000 --> 00:00:00,000
+181. builder = new java.lang.StringBuilder()
+
+47
+00:00:00,000 --> 00:00:00,000
+185. startDate = LocalDate.parse(strStartDate2)
+
+48
+00:00:00,000 --> 00:00:00,000
+189. endDate = LocalDate.parse(strEndDate2)
+
+49
+00:00:00,000 --> 00:00:00,000
+193. d = startDate
+
+50
+00:00:00,000 --> 00:00:00,000
+197. openBrowser("https://stockbit.com/login")
+
+51
+00:00:00,000 --> 00:00:00,000
+201. maximizeWindow()
+
+52
+00:00:00,000 --> 00:00:00,000
+205. setText(findTestObject("Stockbit/input_UserID"), "fadli_romi@yahoo.com")
+
+53
+00:00:00,000 --> 00:00:00,000
+209. setEncryptedText(findTestObject("Stockbit/input_Password"), "qzE6rR3iJu4=")
+
+54
+00:00:00,000 --> 00:00:00,000
+213. click(findTestObject("Stockbit/button_Login"))
+
+55
+00:00:00,000 --> 00:00:00,000
+217. delay(3)
+
+56
+00:00:00,000 --> 00:00:00,000
+221. navigateToUrl("https://stockbit.com/screener")
+
+57
+00:00:00,000 --> 00:00:00,000
+225. connection = null
+
+58
+00:00:00,000 --> 00:00:00,000
+229. statement = null
+
+59
+00:00:00,000 --> 00:00:00,000
+233. resultSet = null
+
+60
+00:00:00,000 --> 00:00:00,000
+237. Class.forName("net.ucanaccess.jdbc.UcanaccessDriver")
+
+61
+00:00:00,000 --> 00:00:00,000
+241. msAccDB = "C:\Fadli\Database1.accdb"
+
+62
+00:00:00,000 --> 00:00:00,000
+245. dbURL = "jdbc:ucanaccess://" + msAccDB
+
+63
+00:00:00,000 --> 00:00:00,000
+249. strSQL = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>
+
+64
+00:00:00,000 --> 00:00:00,000
+253. connection = DriverManager.getConnection(dbURL)
+
+65
+00:00:00,000 --> 00:00:00,000
+257. statement = connection.createStatement()
+
+66
+00:00:00,000 --> 00:00:00,000
+261. try
+
+67
+00:00:00,000 --> 00:00:00,000
+1. Class.forName("net.ucanaccess.jdbc.UcanaccessDriver")
+
+68
+00:00:00,000 --> 00:00:00,000
+265. excelFilePath = "C:\Fadli\GetPrice.xlsx"
+
+69
+00:00:00,000 --> 00:00:00,000
+269. sheetName = "Sheet1"
+
+70
+00:00:00,000 --> 00:00:00,000
+273. workbook01 = getWorkbook(excelFilePath)
+
+71
+00:00:00,000 --> 00:00:00,000
+277. sheet01 = getExcelSheet(workbook01, sheetName)
+
+72
+00:00:00,000 --> 00:00:00,000
+281. numTot = numTot = getCellValueByIndex(sheet01, 0, 0)
+
+73
+00:00:00,000 --> 00:00:00,000
+285. while (d.isBefore(endDate) || d.equals(endDate))
+
+74
+00:00:00,000 --> 00:00:00,000
+1. for ([rowIndex = 1, rowIndex < numTot + 1, (rowIndex++)])
+
+75
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+76
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+77
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+78
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+79
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+80
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+81
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+82
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+83
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+84
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+85
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+86
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+87
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+88
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+89
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+90
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+91
+00:00:00,000 --> 00:00:00,000
+1. strNama = getCellValueByIndex(sheet01, rowIndex, 0)
+
+92
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://stockbit.com/#/symbol/" + strNama)
+
+93
+00:00:00,000 --> 00:00:00,000
+9. waitForElementClickable(findTestObject("Stockbit/menu_Bandarmology"), 10)
+
+94
+00:00:00,000 --> 00:00:00,000
+13. click(findTestObject("Stockbit/menu_Bandarmology"))
+
+95
+00:00:00,000 --> 00:00:00,000
+17. strTanggal = d.format(DateTimeFormatter.ofPattern("MMM dd, yyyy"))
+
+96
+00:00:00,000 --> 00:00:00,000
+21. strTanggal = d.format(ISO_DATE)
+
+97
+00:00:00,000 --> 00:00:00,000
+25. out.println("strTanggal = " + strTanggal)
+
+98
+00:00:00,000 --> 00:00:00,000
+29. out.println("strNama = " + strNama)
+
+99
+00:00:00,000 --> 00:00:00,000
+33. out.println("Baris ke = " + rowIndex)
+
+100
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Stockbit/input__BandarmologyOpenStartDate"))
+
+101
+00:00:00,000 --> 00:00:00,000
+41. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), Keys.chord(CONTROL, "a"))
+
+102
+00:00:00,000 --> 00:00:00,000
+45. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), Keys.chord(BACK_SPACE))
+
+103
+00:00:00,000 --> 00:00:00,000
+49. setText(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), strTanggal)
+
+104
+00:00:00,000 --> 00:00:00,000
+53. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), Keys.chord(ENTER))
+
+105
+00:00:00,000 --> 00:00:00,000
+57. click(findTestObject("Stockbit/input__BandarmologyOpenEndDate"))
+
+106
+00:00:00,000 --> 00:00:00,000
+61. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), Keys.chord(CONTROL, "a"))
+
+107
+00:00:00,000 --> 00:00:00,000
+65. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), Keys.chord(BACK_SPACE))
+
+108
+00:00:00,000 --> 00:00:00,000
+69. setText(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), strTanggal)
+
+109
+00:00:00,000 --> 00:00:00,000
+73. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), Keys.chord(ENTER))
+
+110
+00:00:00,000 --> 00:00:00,000
+77. delay(2)
+
+111
+00:00:00,000 --> 00:00:00,000
+81. strTemp = getText(findTestObject("Stockbit/Bandarmology_AvgRP"))
+
+112
+00:00:00,000 --> 00:00:00,000
+85. out.println("Bandarmology_AvgRP = " + strTemp)
+
+113
+00:00:00,000 --> 00:00:00,000
+89. if (strTemp != "0")
+
+114
+00:00:00,000 --> 00:00:00,000
+93. waitForElementClickable(findTestObject("Stockbit/menu_Bandarmology"), 10)
+
+115
+00:00:00,000 --> 00:00:00,000
+97. click(findTestObject("Stockbit/menu_Bandarmology"))
+
+116
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+117
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+118
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+119
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+120
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+121
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+122
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+123
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+124
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+125
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+126
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+127
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+128
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+129
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+130
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+131
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+132
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+133
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+134
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+135
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+136
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+137
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+138
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+139
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+140
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+141
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+142
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+143
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+144
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+145
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+146
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+147
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+148
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+149
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+150
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+151
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+152
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+153
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+154
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+155
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+156
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+157
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+158
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+159
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+160
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+161
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+162
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+163
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+164
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+165
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+166
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+167
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+168
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+169
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+170
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+171
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+172
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+173
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+174
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+175
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+176
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+177
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+178
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+179
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+180
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+181
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+182
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+183
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+184
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+185
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+186
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+187
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+188
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+189
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+190
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+191
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+192
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+193
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+194
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+195
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+196
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+197
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+198
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+199
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+200
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+201
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+202
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+203
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+204
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+205
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+206
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+207
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+208
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+209
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+210
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+211
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+212
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+213
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+214
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+215
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+216
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+217
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+218
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+219
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+220
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+221
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+222
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+223
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+224
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+225
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+226
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+227
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+228
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+229
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+230
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+231
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+232
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+233
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+234
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+235
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+236
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+237
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+238
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+239
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+240
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+241
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+242
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+243
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+244
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+245
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+246
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+247
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+248
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+249
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+250
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+251
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+252
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+253
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+254
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+255
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+256
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+257
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+258
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+259
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+260
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+261
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+262
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+263
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+264
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+265
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+266
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+267
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+268
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+269
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+270
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+271
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+272
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+273
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+274
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+275
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+276
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+277
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+278
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+279
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+280
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+281
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+282
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+283
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+284
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+285
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+286
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+287
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+288
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+289
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+290
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+291
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+292
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+293
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+294
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+295
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+296
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+297
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+298
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+299
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+300
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+301
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+302
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+303
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+304
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+305
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+306
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+307
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+308
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+309
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+310
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+311
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+312
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+313
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+314
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+315
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+316
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+317
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+318
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+319
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+320
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+321
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+322
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+323
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+324
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+325
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+326
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+327
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+328
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+329
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+330
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+331
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+332
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+333
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+334
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+335
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+336
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+337
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+338
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+339
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+340
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+341
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+342
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+343
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+344
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+345
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+346
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+347
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+348
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+349
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+350
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+351
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+352
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+353
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+354
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+355
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+356
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+357
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+358
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+359
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+360
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+361
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+362
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+363
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+364
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+365
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+366
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+367
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+368
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+369
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+370
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+371
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+372
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+373
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+374
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+375
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+376
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+377
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+378
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+379
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+380
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+381
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+382
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+383
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+384
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+385
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+386
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+387
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+388
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+389
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+390
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+391
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+392
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+393
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+394
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+395
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+396
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+397
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+398
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+399
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+400
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+401
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+402
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+403
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+404
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+405
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+406
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+407
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+408
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+409
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+410
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+411
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+412
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+413
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+414
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+415
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+416
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+417
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+418
+00:00:00,000 --> 00:00:00,000
+1. strTemp = "NA"
+
+419
+00:00:00,000 --> 00:00:00,000
+5. if (getCellValueByIndex(sheet01, rowIndex, 4) != "DONE")
+
+420
+00:00:00,000 --> 00:00:00,000
+1. strNama = getCellValueByIndex(sheet01, rowIndex, 0)
+
+421
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://stockbit.com/#/symbol/" + strNama)
+
+422
+00:00:00,000 --> 00:00:00,000
+9. waitForElementClickable(findTestObject("Stockbit/menu_Bandarmology"), 10)
+
+423
+00:00:00,000 --> 00:00:00,000
+13. click(findTestObject("Stockbit/menu_Bandarmology"))
+
+424
+00:00:00,000 --> 00:00:00,000
+17. strTanggal = d.format(DateTimeFormatter.ofPattern("MMM dd, yyyy"))
+
+425
+00:00:00,000 --> 00:00:00,000
+21. strTanggal = d.format(ISO_DATE)
+
+426
+00:00:00,000 --> 00:00:00,000
+25. out.println("strTanggal = " + strTanggal)
+
+427
+00:00:00,000 --> 00:00:00,000
+29. out.println("strNama = " + strNama)
+
+428
+00:00:00,000 --> 00:00:00,000
+33. out.println("Baris ke = " + rowIndex)
+
+429
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Stockbit/input__BandarmologyOpenStartDate"))
+
+430
+00:00:00,000 --> 00:00:00,000
+41. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), Keys.chord(CONTROL, "a"))
+
+431
+00:00:00,000 --> 00:00:00,000
+45. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), Keys.chord(BACK_SPACE))
+
+432
+00:00:00,000 --> 00:00:00,000
+49. setText(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), strTanggal)
+
+433
+00:00:00,000 --> 00:00:00,000
+53. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenStartDate"), Keys.chord(ENTER))
+
+434
+00:00:00,000 --> 00:00:00,000
+57. click(findTestObject("Stockbit/input__BandarmologyOpenEndDate"))
+
+435
+00:00:00,000 --> 00:00:00,000
+61. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), Keys.chord(CONTROL, "a"))
+
+436
+00:00:00,000 --> 00:00:00,000
+65. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), Keys.chord(BACK_SPACE))
+
+437
+00:00:00,000 --> 00:00:00,000
+69. setText(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), strTanggal)
+
+438
+00:00:00,000 --> 00:00:00,000
+73. sendKeys(findTestObject("Stockbit/input__BandarmologyOpenEndDate"), Keys.chord(ENTER))
+
+439
+00:00:00,000 --> 00:00:00,000
+77. delay(2)
+
+440
+00:00:00,000 --> 00:00:00,000
+81. strTemp = getText(findTestObject("Stockbit/Bandarmology_AvgRP"))
+
+441
+00:00:00,000 --> 00:00:00,000
+85. out.println("Bandarmology_AvgRP = " + strTemp)
+
+442
+00:00:00,000 --> 00:00:00,000
+89. if (strTemp != "0")
+
+443
+00:00:00,000 --> 00:00:00,000
+93. waitForElementClickable(findTestObject("Stockbit/menu_Bandarmology"), 10)
+
+444
+00:00:00,000 --> 00:00:00,000
+97. click(findTestObject("Stockbit/menu_Bandarmology"))
+
+445
+00:00:00,000 --> 00:00:00,000
+5. d = d.plusDays(1)
+
+446
+00:00:00,000 --> 00:00:00,000
+289. if (null != connection)
+
+447
+00:00:00,000 --> 00:00:00,000
+1. if (resultSet != null)
+
+448
+00:00:00,000 --> 00:00:00,000
+5. statement.close()
+
+449
+00:00:00,000 --> 00:00:00,000
+9. connection.close()
+
+450
+00:00:00,000 --> 00:00:00,000
+293. click(findTestObject("Stockbit/img__Profile"))
+
+451
+00:00:00,000 --> 00:00:00,000
+297. click(findTestObject("Stockbit/button_Logout"))
+
+452
+00:00:00,000 --> 00:00:00,000
+301. closeBrowser()
+
