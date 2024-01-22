@@ -52,11 +52,11 @@ Double dblFreqAnal
 
 LocalDate ldt = LocalDate.now()
 String strNama
-String strStartDate2 = "2024-01-10" // FR: disesuaikan
-//String strStartDate2 = ldt.toString() // FR: disesuaikan
+//String strStartDate2 = "2024-01-10" // FR: disesuaikan
+String strStartDate2 = ldt.toString() // FR: disesuaikan
 
-String strEndDate2 = "2024-01-10" // FR: disesuaikan
-//String strEndDate2 = ldt.toString() // FR: disesuaikan
+//String strEndDate2 = "2024-01-10" // FR: disesuaikan
+String strEndDate2 = ldt.toString() // FR: disesuaikan
 String[] partSplit
 String strHari, strBulan, strTahun
 
@@ -87,7 +87,7 @@ Statement statement = null;
 ResultSet resultSet = null;
 Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
 //String msAccDB = WebUI.concatenate([GlobalVariable.folderTestData, '\\Database1.accdb'] as String[])
-String msAccDB = 'Database1.accdb'
+String msAccDB = 'C:\\Fadli\\Database1.accdb'
 String dbURL = "jdbc:ucanaccess://" + msAccDB;
 String strSQL
 connection = DriverManager.getConnection(dbURL);
@@ -104,7 +104,7 @@ try {
 // Step 1: Loading driver
 // for database
 
-String excelFilePath = 'GetPrice.xlsx'
+String excelFilePath = 'C:\\Fadli\\GetPrice.xlsx'
 String sheetName = 'Sheet1'
 workbook01 = ExcelKeywords.getWorkbook(excelFilePath)
 sheet01 = ExcelKeywords.getExcelSheet(workbook01, sheetName)
@@ -506,7 +506,7 @@ while (d.isBefore(endDate) || d.equals(endDate)) {
 				//System.out.println("strChange = " + strChange)
 				
 								 
-				/* FR: ini dipake
+				
 				strFreq = WebUI.getText(findTestObject('Stockbit/Home_Freq'))				
 				if (strFreq.contains(",")) {
 					strFreq = strFreq.replace(",", "")
@@ -524,8 +524,7 @@ while (d.isBefore(endDate) || d.equals(endDate)) {
 					System.out.println("Double strFreqAnal: " + strFreqAnal)
 					
 				}
-				*/
-				
+					
 				
 				
 				strTanggal = d.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
