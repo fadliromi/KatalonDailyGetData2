@@ -153,13 +153,14 @@
 			<attribute name="javadoc_location" value="file:/C:/Fadli/Katalon_Studio_Windows_64-8.3.5/configuration/resources/apidocs/com.kms.katalon.core.testng/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Fadli/git/KatalonDailyGetData2/Drivers/commons-lang3-3.8.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Fadli/git/KatalonDailyGetData2/Drivers/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Fadli/git/KatalonDailyGetData2/Drivers/hsqldb-2.5.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Fadli/git/KatalonDailyGetData2/Drivers/jackcess-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Fadli/git/KatalonDailyGetData2/Drivers/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pengguna/git/KatalonDailyGetData2/Drivers/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pengguna/git/KatalonDailyGetData2/Drivers/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pengguna/git/KatalonDailyGetData2/Drivers/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pengguna/git/KatalonDailyGetData2/Drivers/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pengguna/git/KatalonDailyGetData2/Drivers/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Fadli/Katalon_Studio_Windows_64-8.3.5/configuration/plugin/install/233523/1.0.2/ExcelKeywords.jar"/>
+	<classpathentry kind="lib" path="C:/Fadli/Katalon_Studio_Windows_64-8.3.5/configuration/org.eclipse.osgi/26/0/.cp/resources/applitools/katalon-studio-applitools-plugin.jar"/>
 	<classpathentry kind="lib" path="C:/Fadli/Katalon_Studio_Windows_64-8.3.5/configuration/org.eclipse.osgi/26/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
-	<classpathentry kind="lib" path="C:/Fadli/Katalon_Studio_Windows_64-8.3.5/configuration/plugin/install/220537/1.0.2/ExcelKeywords.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
